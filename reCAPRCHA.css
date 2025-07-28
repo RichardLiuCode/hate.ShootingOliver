@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+}
+
+.reCAPTCHAform {
+    margin: 0 auto;
+    margin-top: 41vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: aliceblue;
+    width: 210px;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    border-radius: 2px;
+}
+
+#checkbox {
+    width: 20px;
+    height: 20px;
+}
+
+#reCAPRCHAText {
+    font-family: arial;
+    color: black;
+    user-select: none;
+}
+
+.statusConteiner {
+    margin: 0 auto;
+    font-family: arial;
+    color: yellowgreen;
+    width: 210px;
+    text-align: left;
+}
+
+#status {
+    display: none;
+}
+
+footer {
+    background-color: aliceblue;
+    width: 100vw;
+    height: 30px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    font-family: arial;
+    user-select: none;
+}
