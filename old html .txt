@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" href="https://i.imgflip.com/2/1byowi.jpg" type="image/x-icon">
+    <title>Shooting Oliver</title>
+</head>
+<h1>Shooting Oliver</h1>
+<p>Oliver said a bad word call: "Please sir! I want some more!"</p>
+<p>The thing he said showed he was greedy.</p>
+<p>Because Oliver is bad, so I want to shoot him</p>
+
+<hr>
+<h2>Oliver</h2>
+<img src="https://hugshare.com/wp-content/uploads/2017/08/Oliver-more-Copy.jpg"  width="850">
+<hr>
+<h2>Shooting Oilver</h2>
+<p>Oliver is a bad person because he ask for more food. So, shoot him</p>
+
+<iframe src="https://drive.google.com/file/d/12113FkVQ8ZWCylsSScbDKP_JOgX4eHlS/preview" width="850"  height="560" allow="autoplay"></iframe>
+<hr>
+<h2>Oliver video</h2>
+<iframe width="850"  height="560" src="https://www.youtube.com/embed/FYCu9-r6B8E?si=MQKC0cr3sI2s5r9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr>
+<h2>Oliver took me a photo</h2>
+<p>When I was shooting Oliver in History class,</p>
+<p>Oliver not only ask for more food, he also took me a photo and mail it to me.</p>
+<iframe src="https://drive.google.com/file/d/146DQAm-BwMhCM0PoMe-vmF-IpHc2DCUa/preview" width="850" height="560" allow="autoplay"></iframe>
+
+<hr>
+<h1>If you also hate Oliver, Sent these <a href="https://www.youtube.com/channel/UCuvJA2I2rsiTfEPHqllr_dQ">videos</a> to him</h1>
+<h3>Oliver's Email is: <a href="https://mail.google.com/mail/?view=cm&to=jaden.janah@hsartsstudent.org&su=&body=">jaden.janah@hsartsstudent.org</a></h3>
+<br>
+<iframe width="377" height="658" src="https://www.youtube.com/embed/fTAwC5kSOKI" title="Send This To Someone You DISLIKE! 🤣" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="377" height="658" src="https://www.youtube.com/embed/mWReZpUybfg" title="SEND THIS TO SOMEONE 🤣 Sound:@roshanjeet7823" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="377" height="658" src="https://www.youtube.com/embed/8trMDY8U018" title="Send this to someone you hate!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<script>
+    window.onload=function(){
+        // alert("This site is based on the character Noah Claypole from Oliver Twist, just created for fun after a school play.")
+    }
+</script>
+</html>
