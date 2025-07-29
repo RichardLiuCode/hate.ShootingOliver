@@ -35,7 +35,7 @@
 <iframe width="377" height="658" src="https://www.youtube.com/embed/8trMDY8U018" title="Send this to someone you hate!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <script>
     window.onload=function(){
-        alert("This site is based on the character Noah Claypole from Oliver Twist, just created for fun after a school play.")
+        // alert("This site is based on the character Noah Claypole from Oliver Twist, just created for fun after a school play.")
     }
 </script>
 </html>
