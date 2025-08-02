@@ -2,7 +2,7 @@ window.onload = function() {
     if (window.location.search) {
         var ski = new URLSearchParams(window.location.search);
         ski = ski.get("id");
-        if (ski = "PleaseSirIWantSomeMore") {
+        if (ski == "PleaseSirIWantSomeMore") {
             console.log("OK")
         } else {
            window.location.href = "error.html"
@@ -35,5 +35,6 @@ document.getElementById("checkbox").addEventListener("click", function() {
     }
 
 })
+
 
 
