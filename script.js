@@ -3,8 +3,10 @@ window.onload = function() {
         var ski = new URLSearchParams(window.location.search);
         ske = ski.get("id");
         if (ski = "PleaseSirIWantSomeMore") {
-            window.location.href = "error.html"
-        } else
+            console.log("OK")
+        } else {
+           window.location.href = "error.html"
+        }
     } else {
         window.location.href = "error.html"
     }
@@ -33,3 +35,4 @@ document.getElementById("checkbox").addEventListener("click", function() {
     }
 
 })
+
