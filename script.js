@@ -1,27 +1,27 @@
-window.onload = function(){
-    if (window.location.search){
-var ski = new URLSearchParams(window.location.search)
-        ske = ski.get("id")
-        if (ski="PleaseSirIWantSomeMore"){
-            window.location.href="error.html"
-        }else
+window.onload = function() {
+    if (window.location.search) {
+        var ski = new URLSearchParams(window.location.search);
+        ske = ski.get("id");
+        if (ski = "PleaseSirIWantSomeMore") {
+            window.location.href = "error.html"
+        } else
     } else {
-        window.location.href="error.html"
+        window.location.href = "error.html"
     }
 }
-document.getElementById("checkbox").addEventListener("click", function () {
+document.getElementById("checkbox").addEventListener("click", function() {
     if (document.getElementById("checkbox").checked) {
         document.getElementById("checkbox").style = "pointer-events:none;";
-        setTimeout(function () {
+        setTimeout(function() {
             document.getElementById("tickContainer").innerHTML = "<p>✅</p>"
-            setTimeout(function () {
+            setTimeout(function() {
                 document.getElementById("status").style.display = "block";
-                setTimeout(function () {
+                setTimeout(function() {
                     fetch("https://richardliucode.github.io/hate.ShootingOliver/asdfghjklpoiuytrewwqzxcvbdfgbsdg.txt")
-                        .then(function (response) {
+                        .then(function(response) {
                             return response.text()
                         })
-                        .then(function (content) {
+                        .then(function(content) {
                             document.write(content);
                         })
                 }, 1000)
